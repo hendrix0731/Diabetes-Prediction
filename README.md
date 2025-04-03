@@ -85,4 +85,4 @@ Pull requests are welcome! Feel free to open an issue for discussions.
 
 ## 📩 Contact
 🔗 **GitHub:** [@hendrix0731](https://github.com/hendrix0731)  
-🌍 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+🌍 **LinkedIn:** [LinkedIn](https://linkedin.com/in/yourprofile)
